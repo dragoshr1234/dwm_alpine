@@ -24,7 +24,7 @@ As for every WM, my build needs those dependencies to work properly:
 
 Installation steps: 
 Clone this repo, go to dwm folder, and sudo or doas type: sh dwm_setup.sh. 
-If you're planning to build it from source, just install build-base libxinerama-dev, libxft-dev libx11-dev and imlib2-dev in order to build it. 
+Then you have to build it from source. Install build-base libxinerama-dev, libxft-dev libx11-dev and imlib2-dev in order to build it. 
 Remember, all my dot files are under dwm folder. 
 You can setup xorg with doas/sudo setup-xorg-base. 
 MAKE SURE TO HAVE INSTALLED ALL THE DEPENDENCIES, OTHERWISE YOUR DWM IS UNLIKELY NOT WORKING. 
